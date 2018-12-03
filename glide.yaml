@@ -1,0 +1,6 @@
+package: github.com/liyue80/rawfilewriter
+import:
+- package: github.com/labstack/echo
+  version: ^3.3.8
+  subpackages:
+  - middleware
